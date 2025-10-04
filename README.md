@@ -20,7 +20,7 @@ This project focuses on **design, layout, and responsiveness**. No backend or re
 ## 🖼 Preview
 
 ![Preview Screenshot](s1.png) 
-![Preview Screenshot](s1.png) 
+![Preview Screenshot](s2.png) 
 ![Preview Screenshot](s3.png) 
 
 
@@ -40,6 +40,10 @@ This project focuses on **design, layout, and responsiveness**. No backend or re
 🔹 *Advanced Responsiveness* –&nbsp; Further optimize UI for all devices.<br/>
 🔹 *Dark & Light Modes* –&nbsp; Allow users to switch between themes for better user experience.<br/>
 🔹 *Playlist Management* – &nbsp;Add functionality to create, edit, and manage playlists dynamically.<br/>
+
+
+
+
 
 
 

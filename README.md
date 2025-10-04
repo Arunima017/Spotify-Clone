@@ -5,7 +5,9 @@ This project focuses on **design, layout, and responsiveness**. No backend or re
 
 ---
 
+
 ## 🌟 Features
+
 - 🎵 **Sidebar navigation**: Home, Search, and Your Library  
 - 💿 **Cards for playlists, albums, and podcasts**  
 - 🖤 **Dark aesthetic design** similar to Spotify Web Player  
@@ -16,6 +18,7 @@ This project focuses on **design, layout, and responsiveness**. No backend or re
 ---
 
 ## 🖼 Preview
+
 ![Preview Screenshot](s1.png) 
 ![Preview Screenshot](s1.png) 
 
@@ -29,13 +32,14 @@ This project focuses on **design, layout, and responsiveness**. No backend or re
 
 
 
-## 🎨 Future Improvements
--🎨 Add multiple theme options (light, pastel, neon, etc.)
--📱 Make fully mobile-responsive with optimized card layouts
--🎶 Add real music playback using JavaScript & Spotify API
--✨ Enhance animations & hover effects for better UI feel
--🖼 Add user playlist management (create, edit, delete playlists)
--🛠️ Implement search functionality for songs and albums
+## 🔮 Future Enhancements
+
+🔹 *JavaScript Integration* – &nbsp;To enable actual music playback.<br/>
+🔹 *API Integration* –&nbsp;Fetch real-time song data from the Spotify API.<br/>
+🔹 *Advanced Responsiveness* –&nbsp; Further optimize UI for all devices.<br/>
+🔹 *Dark & Light Modes* –&nbsp; Allow users to switch between themes for better user experience.<br/>
+🔹 *Playlist Management* – &nbsp;Add functionality to create, edit, and manage playlists dynamically.<br/>
+
 
 
 Made with ❤ *by Arunima Satpathy*
